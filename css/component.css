@@ -50,6 +50,11 @@ img.panya {
     border-radius:25px;
 }
 
+img.round {
+    max-width: 50%;
+	border-radius:25px;
+}
+
 .container { height: 100%; }
 
 .bl-main {
